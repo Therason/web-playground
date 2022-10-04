@@ -8,7 +8,6 @@ body {
   padding: 0;
   margin: 0;
   background: #ead1a3;
-
 }
 
 header {
@@ -24,7 +23,7 @@ h1{
   font-weight: bolder;
   font-size: 3em;
   text-align: center;
-  color: #606c38;
+  color: #636c38;
   text-shadow:
     2px 2px #dda15e,
     4px 4px #bc6c25;
