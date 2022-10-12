@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Animal';
-  src: url('assets/fonts/animal/Animal-Bold.ttf')
+  src: url('../assets/fonts/animal/Animal-Bold.ttf')
     format('truetype');
 }
 
